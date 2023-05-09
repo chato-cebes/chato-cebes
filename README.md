@@ -21,6 +21,4 @@ Currently, I am dedicated to carrying out projects that allow me to reinforce my
   
   [![Linkedin Badge](https://img.shields.io/badge/-Javier_Ceballos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cebesjavier/)](https://www.linkedin.com/in/cebesjavier/)
   [![Gmail Badge](https://img.shields.io/badge/-Javier_Ceballos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javancebes@gmail.com)](mailto:javancebes@gmail.com)
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=chato-cebes&show_icons=true" />
 </div>
