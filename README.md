@@ -5,6 +5,7 @@ As a Full Stack developer, I have knowledge of both back-end and front-end devel
 
 Currently, I am dedicated to carrying out projects that allow me to reinforce my programming skills and knowledge. I am passionate about this field, and my goal is to continue learning and growing in it. I am also interested in the world of finance and economics, and I intend to integrate my knowledge in both areas to offer more comprehensive solutions to the projects I work on in the future.
 </br>
+</hr>
 
 **💻 Languages and Tools...**
 
@@ -12,7 +13,7 @@ Currently, I am dedicated to carrying out projects that allow me to reinforce my
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40"/></code><code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/></code><code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/> </code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40"/> </code>
 </div>
 <br><br>
-
+</hr>
 
 **📫 How to reach me**
 
