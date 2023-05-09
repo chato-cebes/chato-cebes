@@ -1,4 +1,4 @@
-<h2 align='center'>{ HELLO WORLD! 👋, I´m Javier </h2>
+<h2 align='center'>{ HELLO WORLD! 👋, I´m Javier }</h2>
 </hr>
 </br>
 As a Full Stack developer, I have knowledge of both back-end and front-end development tools. I have worked on individual projects using technologies such as JavaScript, React, Redux, Node.js, Express, and PostgreSQL. Additionally, I have participated in group projects where we used methodologies like Scrum and tools such as Git, which have been critical to the development of each project.
